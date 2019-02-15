@@ -44,7 +44,7 @@ func unzip(str string) string {
 	return str
 }
 
-func main() {
+func unziptest() {
 	str := "ef3[a]2[bc]gh2[a]"
 	//str := "3[a2[c]]"
 	//fmt.Scanln(&str)
